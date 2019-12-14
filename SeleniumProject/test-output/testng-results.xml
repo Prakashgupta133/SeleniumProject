@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GRID SAMPLE TEST" duration-ms="14489" started-at="2019-12-08T17:16:44 IST" finished-at="2019-12-08T17:16:58 IST">
+    <groups>
+    </groups>
+    <test name="GRID TEST WITH SERIAL EXECUTION WITH BROWSER firefox" duration-ms="14489" started-at="2019-12-08T17:16:44 IST" finished-at="2019-12-08T17:16:58 IST">
+      <class name="testNG1.GridTestNgEx1">
+        <test-method status="PASS" signature="mailTest(java.lang.String)[pri:0, instance:testNG1.GridTestNgEx1@335eadca]" name="mailTest" duration-ms="14447" started-at="2019-12-08T17:16:44 IST" finished-at="2019-12-08T17:16:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mailTest -->
+      </class> <!-- testNG1.GridTestNgEx1 -->
+    </test> <!-- GRID TEST WITH SERIAL EXECUTION WITH BROWSER firefox -->
+  </suite> <!-- GRID SAMPLE TEST -->
+</testng-results>
